@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6s0069_000-X.yaml, hash: 'sha256:307180a64cef3877cf74ea0cc88fc9b3af3b8d2d644d0c6dbaec67efca77bbf8'}
+  - {seq: 0, filename: KR6s0069_000-X.yaml, hash: 'sha256:d3163fb69b00abc60b62f1416d92607f040de9016dc9af00860300a51f9e3784'}
   - {seq: 1, filename: KR6s0069_001-X.yaml, hash: 'sha256:2a0691e66638122f3aac29d69e1ffb266046c548fecc43db009cfa36cb2d19aa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6s0069_000-X.markers.yaml, hash: 'sha256:a9b2cc0892bac9d9df6d1a3485c77fa4728df21f6e46a10b9a4d9912a4c13449'}
+  - {seq: 0, role: markers, filename: assets/KR6s0069_000-X.markers.yaml, hash: 'sha256:915e573f5b8150d84099573f02b4c802b6cecb1ba7d78bb78f0000a32e406a41'}
   - {seq: 1, role: markers, filename: assets/KR6s0069_001-X.markers.yaml, hash: 'sha256:9b2400a93d0af8473782622a608ebc40a4ebdc4de3cc0ad37af76f0a41b0d5c9'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6s0069_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1319-A 御製總序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6s0069_X_000-mulu-2
     span:
-    - front
+    - body
     - 1405
     - 1405
   label: 御選語錄總目
@@ -10575,4 +10575,4 @@ table_of_contents:
   label: 海會寺方丈僧超盛如川
   type: mulu
   level: 1
-hash: sha256:b585488f1860d50d089406cd924b6449ba1e4c0ec8f893cfaddcf0056a5b6974
+hash: sha256:53ff0986aecd862825b853481229caf47de972d5aaa99b250421c156e160011c
